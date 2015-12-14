@@ -1,0 +1,6 @@
+E:\Projekti\WorkflowEngine\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
+E:\Projekti\WorkflowEngine\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe
+E:\Projekti\WorkflowEngine\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+E:\Projekti\WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csprojResolveAssemblyReference.cache
+E:\Projekti\WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.exe
+E:\Projekti\WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.pdb

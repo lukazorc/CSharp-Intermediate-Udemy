@@ -1,0 +1,6 @@
+E:\Projekti\DatabaseConnection\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+E:\Projekti\DatabaseConnection\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+E:\Projekti\DatabaseConnection\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+E:\Projekti\DatabaseConnection\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+E:\Projekti\DatabaseConnection\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+E:\Projekti\DatabaseConnection\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb

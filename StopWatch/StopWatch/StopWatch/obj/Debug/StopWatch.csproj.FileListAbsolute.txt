@@ -1,0 +1,12 @@
+E:\Projekti\StopWatch\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+E:\Projekti\StopWatch\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+E:\Projekti\StopWatch\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+E:\Projekti\StopWatch\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+E:\Projekti\StopWatch\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+E:\Projekti\StopWatch\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+E:\Projekti\CSharp Intermediate-Course Udemy\StopWatch\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+E:\Projekti\CSharp Intermediate-Course Udemy\StopWatch\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+E:\Projekti\CSharp Intermediate-Course Udemy\StopWatch\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+E:\Projekti\CSharp Intermediate-Course Udemy\StopWatch\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+E:\Projekti\CSharp Intermediate-Course Udemy\StopWatch\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+E:\Projekti\CSharp Intermediate-Course Udemy\StopWatch\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache

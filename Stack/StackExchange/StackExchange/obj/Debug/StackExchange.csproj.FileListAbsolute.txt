@@ -1,0 +1,6 @@
+E:\Projekti\Stack\StackExchange\StackExchange\bin\Debug\StackExchange.exe.config
+E:\Projekti\Stack\StackExchange\StackExchange\bin\Debug\StackExchange.exe
+E:\Projekti\Stack\StackExchange\StackExchange\bin\Debug\StackExchange.pdb
+E:\Projekti\Stack\StackExchange\StackExchange\obj\Debug\StackExchange.csprojResolveAssemblyReference.cache
+E:\Projekti\Stack\StackExchange\StackExchange\obj\Debug\StackExchange.exe
+E:\Projekti\Stack\StackExchange\StackExchange\obj\Debug\StackExchange.pdb
